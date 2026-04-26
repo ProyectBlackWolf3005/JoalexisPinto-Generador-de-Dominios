@@ -1,4 +1,4 @@
-# Generador de Excusas
+# Generador de Dominios
 
 Este proyecto genera nombres de dominio de forma automática combinando diferentes pronombres, adjetivos, sustantivos y extensiones.
 
