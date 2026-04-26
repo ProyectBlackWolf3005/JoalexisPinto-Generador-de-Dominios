@@ -2,8 +2,6 @@
 
 Este proyecto genera nombres de dominio de forma automática combinando diferentes pronombres, adjetivos, sustantivos y extensiones.
 
-Al presionar el botón **Generar**, se muestra un dominio aleatorio en pantalla.
-
 ---
 
 ## Funcionalidades
@@ -20,11 +18,11 @@ Al presionar el botón **Generar**, se muestra un dominio aleatorio en pantalla.
 
 1. Clona o descarga este repositorio:
    ```bash
-   $ git clone https://github.com/ProyectBlackWolf3005/JoalexisPinto-Generador-de-Excusas.git
+   $ git clone ttps://github.com/ProyectBlackWolf3005/JoalexisPinto-Generador-de-Dominios.git
 
 2. Abre el archivo index.html en tu navegador o inicia un servidor local con VS Code (extensión Live Server).
 
-3. Presiona el botón "Otra excusa" para generar una nueva.
+3. Presiona el botón **Generar** para mostrar un dominio aleatorio en pantalla.
 
 ---
 
